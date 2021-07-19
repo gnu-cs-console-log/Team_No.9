@@ -1,0 +1,28 @@
+.content {
+  margin-top: 10px;
+  display: inline-block;
+  text-align: center;
+}
+#con {
+  margin-top: 5px;
+  display: inline-block;
+  margin-left: 20px;
+}
+#iam {
+  font-weight: bold;
+}
+#img {
+  height: 100px;
+  width: 100px;
+  border-radius: 70%;
+  overflow: hidden;
+}
+a {
+  text-decoration: none;
+}
+header {
+  margin-top: 30px;
+}
+#one {
+  margin-top: 20px;
+}
